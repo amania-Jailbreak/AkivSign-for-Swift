@@ -1,0 +1,24 @@
+{
+    "apps": [
+        {
+            "beta": true,
+            "bundleIdentifier": "jp.amania.akivsign",
+            "developerName": "amania",
+            "downloadURL": "https://github.com/amania-Jailbreak/AkivSign-for-Swift/raw/refs/heads/main/AkivSign-unsigned.ipa",
+            "iconURL": "https://github.com/amania-Jailbreak/AkivSign-for-Swift/blob/main/image.png?raw=true",
+            "localizedDescription": "https://github.com/amania-Jailbreak/AkivSign-for-Swift/blob/main/README.md\nこれ見ろ",
+            "name": "AkivSign",
+            "screenshotURLs": [""],
+            "size": 2184796,
+            "subtitle": "AkivSign for Swift",
+            "tintColor": "FFCCCC",
+            "version": "1.0",
+            "versionDate": "2025-12-11T22:09:00-07:00",
+            "versionDescription": "頑張った"
+        }
+    ],
+    "identifier": "jp.amania.akivsign",
+    "name": "AkivSign",
+    "news": [],
+    "userInfo": {}
+}
